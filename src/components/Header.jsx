@@ -3,7 +3,7 @@ export default function Header() {
     <header className="bg-slate-900 text-white p-4 fixed top-0 left-0 w-full z-50">
       <div className="container mx-auto flex flex-wrap justify-between items-center">
         <div className="flex items-center">
-          <img src="logo2.png" alt="Logo Amazfit" className="h-12 w-auto" />
+          {/* <img src="logo2.png" alt="Logo Amazfit" className="h-12 w-auto" /> */}
         </div>
 
         <nav>
