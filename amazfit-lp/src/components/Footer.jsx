@@ -1,8 +1,11 @@
 export default function Footer() {
-    return (
-      <footer className="bg-gray-800 text-white p-4 mt-4 text-center">
-        <p>© 2024 Amazfit Store. Todos los derechos reservados.</p>
-      </footer>
-    );
-  }
-  
+  return (
+    <footer className="bg-slate-900 text-white py-6">
+      <div className="container mx-auto text-center">
+        <p className="text-sm">
+          © 2024 Amazfit. Todos los derechos reservados.
+        </p>
+      </div>
+    </footer>
+  );
+}

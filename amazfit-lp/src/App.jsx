@@ -9,10 +9,12 @@ export default function App() {
   return (
     <div className="App">
       <Header />
-      <Intro />
-      <DOFA />
-      <OrganizationalIdentity />
-      <StrategicObjectives />
+      <main className="pt-24 mx-auto px-4 lg:px-16 xl:px-24 2xl:px-32 max-w-7xl">
+        <Intro />
+        <DOFA />
+        <OrganizationalIdentity />
+        <StrategicObjectives />
+      </main>
       <Footer />
     </div>
   );
