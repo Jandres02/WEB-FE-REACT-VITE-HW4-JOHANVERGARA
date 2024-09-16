@@ -85,5 +85,7 @@ Las contribuciones al proyecto son bienvenidas. Por favor, sigue estos pasos par
     ```
 4. Crea una solicitud de extracción (pull request) en GitHub.
 
+![image](https://github.com/user-attachments/assets/3030539e-f6f4-432e-b201-49603501540f)
+
 
 
